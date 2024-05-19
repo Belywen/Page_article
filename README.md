@@ -1,1 +1,1 @@
-Travail afin de faire de la mise en page d'article sur cahier des charges. Projet avec FreeCodeCamp
+Projet sur cahier des charges permettant de faire de la mise en page d'un article. Projet avec FreeCodeCamp
